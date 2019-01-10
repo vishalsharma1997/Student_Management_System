@@ -1,0 +1,22 @@
+.admintitle
+{
+    background-color: #530602;
+    color: #fff;
+ // margin-left: 50px;
+ // margin-right: 50px;
+    margin-top: 50px;
+    height: 130px;
+    line-height: 130px;
+    
+}
+.dashboard
+{
+    background-color: #1DEFEF;
+    color: #000;
+ // margin-left: 50px;
+//  margin-right: 50px;
+    padding-top: 10px;
+    height: 140px;
+    font-size: 25px;
+    
+}
